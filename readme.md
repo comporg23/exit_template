@@ -45,3 +45,13 @@ yeah, go on.
 start editing the source file. (did you do vimtutor? you should!)
 
 wish you good luck.
+
+
+p. s.
+
+how to see the dependencies of your program?
+do ldd on it?
+
+how to trace the system calls?
+
+try doing strace on your program.
